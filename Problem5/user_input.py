@@ -28,15 +28,25 @@ October 20 1977
 '''
 
 # TODO 1. Ask for the first name and store it in a variable
-
+first = input("What is your first name?")
+print(first)
 # TODO 2. Ask for the last name and store it in a variable
+last = input("What is your last name?")
+print(last)
 
 # TODO 3. Print "Enter your date of birth:"
-
+print("Enter your date of birth.")
 # TODO 4. Ask for the Month and store it in a variable
+mo = input("Month?")
+print(mo)
 
 # TODO 5. Ask for the day and store it in a variable
+day = input("Day?")
+print(day)
 
 # TODO 6. Ask for the year and store it in a variable
+year = input("Year?")
+print(year)
 
 # TODO 7. Print the name with the date of birth as shown above.
+print("%s %s was born on %s %s, %s."%(first, last, mo, day, year))
