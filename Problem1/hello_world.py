@@ -12,3 +12,4 @@ Hello, world!
 '''
 
 # TODO 1. print 'Hello, world!' to the console.
+print("hello world")

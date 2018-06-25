@@ -15,3 +15,8 @@ Expected output:
 '''
 
 # TODO 1. print a tic tac toe board to the console.
+print("  |  |  ")
+print("--------")
+print("  |  |  ")
+print("--------")
+print("  |  |  ")

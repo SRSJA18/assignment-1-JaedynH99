@@ -14,16 +14,17 @@ Never gonna tell a lie and hurt you
 Here is a program that outputs that chorus:
 '''
 
-root = "Never gonna"
-print (root, "give you up")
-print (root, "let you down")
-print (root, "run around and desert you")
-print (root, "make you cry")
-print (root, "say goodbye")
-print (root, "tell a lie and hurt you")
-print # blank line
 
 # TODO Option 1: Choose a song or chorus and write the program to output the lyrics using variables
+root = "Are we"
+a = "out of the woods yet"
+b = "in the clear yet"
+print(root, a)
+print(root, a)
+print(root, a)
+print(root, "out of the woods")
+print(root, b)
+print(root, b)
 # TODO Option 2a: If you know about Python lists you could simplify the program above using a loop.
 # TODO Option 2b: If you completed 2a you may have noticed that all but one line has the form
 #                'Never gonna _____ you ____' with the second blank optional. Can you rewrite the program
